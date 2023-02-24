@@ -124,21 +124,14 @@
   <a href="https://www.linkedin.com/in/nayan-singhal-3a9824222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs8OCKAjMS6yFr8lDbiaikQ%3D%3D" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/nayansinghal393/practice/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/icons8-geeksforgeeks.svg"/></code>
-  </a>
   
       
-</p>
 <br/>
 
-<p align="center">
+
   <a href="https://www.hackerrank.com/nayansinghal393" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/hr.png"/></code>
   </a>
-
-
-  
 
   <a href="https://www.codechef.com/users/nayansinghal23" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/cc.svg"/></code>
