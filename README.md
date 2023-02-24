@@ -49,7 +49,7 @@
 <p align="center">
   <a>
     <img height="130" width="150" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayansinghal3&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayansinghal23&theme=dark&hide_border=true"/>
     <img height="130" width="150" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/right.png">
   </a>
 </p>
