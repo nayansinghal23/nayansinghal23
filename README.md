@@ -12,15 +12,15 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/GIF/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Data Structure and Web Development**
+- 🔭 I’m currently working on **Data Structure and Web Development**.
 
-- 🤝 I’m looking for help with **Internships**
+- 🤝 I’m looking for **Internships** and **Placements**.
 
-- 🌱 I’m currently learning **Competetive Programming**
+- 🌱 I've done some **Competetive Programming** as well.
 
-- 👯 I’m looking to collaborate on **Web Development and Machine Learning**
+- 👯 I’m looking to collaborate on **Web Development**.
 
-- 💬 Ask me about Anything here! **I am happy to Help.**
+- 💬 Ask me about Anything here! **I am happy to Help**.
 
 <br/>
 <br/>
