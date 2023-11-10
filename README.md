@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="nayan-image" src="https://github.com/nayansinghal23/nayansinghal23/assets/96867955/586750f6-ad7f-4b09-ad38-96d82f1e8beb">
 </a>
 
 - 🔭 I’m currently working on **Web Development**.
